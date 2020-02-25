@@ -7,8 +7,11 @@ You are the manager of the business intelligence department at Insight Toys Corp
 
 The BI report I created with 4 sections</br>
 • Product Performance: This section mainly analysis the product performance to indicate some of the best-selling products and help to develop the strategy.</br>
+</br> 
 • Area Performance: As a multinational corporation around the world, this section mainly analysis each area performance.</br> 
+</br>
 • Revenue Performance: This section mainly analysis the revenue performance of Insight Toy Company in 2017 to evaluate a company's    financial health.</br> 
+</br>
 • Customer Management: This section mainly analysis customer satisfaction by different factors in order to manage and understand the customers.</br>
  
 Recently, I am trying to learn more about SAS Base Programming part by myself. 
